@@ -1,6 +1,6 @@
 ## Awesome Realm - The Realmers' Wiki
 
-<center>[Worlds](worlds) • [Rules](rules)</center>
+-> [Worlds](worlds) • [Rules](rules) <-
 
 [Realm Rules](rules)
 
