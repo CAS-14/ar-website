@@ -1,18 +1,14 @@
 ## Awesome Realm - The Realmers' Wiki
 
 ### Pages
-[Realm Rules](rules)
-
-[All Builds](builds)
-
-[Timeline](timeline)
+- [Realm Rules](rules)
+- [All Builds](builds)
+- [Timeline](timeline)
 
 ### Wiki Categories
-[Worlds](worlds)
-
-[Members](members)
-
-[History](history)
+- [Worlds](worlds)
+- [Members](members)
+- [History](history)
 
 ### About
 
