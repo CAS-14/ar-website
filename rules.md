@@ -1,3 +1,5 @@
+[home](/) / rules
+
 **Note:** Rules #1-12 are the same for Creative and Survival.
 
 ### Creative Rules
