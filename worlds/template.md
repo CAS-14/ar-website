@@ -1,5 +1,7 @@
 [home](/) / [worlds](..) / code
 
+## World Full Name
+
 ### Info
 **Name:** World Full Name \[CODE]  
 **Nickname:** Friendly Nickname   
@@ -17,3 +19,6 @@ About the world's history and about
 ### Iconic Builds
 - Builds with links to them or lore links
 - Doge
+
+### Images
+![Alt](/favicon.png)

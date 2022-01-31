@@ -1,5 +1,7 @@
 [home](/) / [worlds](..) / arc1
 
+## Creative Season 1
+
 ### Info
 **Name:** Creative Season 1 \[ARC1]  
 **Nickname:** Floating Island World  
