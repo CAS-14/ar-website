@@ -1,1 +1,3 @@
-GOBLIN!
+[home](/) / worlds
+
+coming soon
