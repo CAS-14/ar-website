@@ -1,4 +1,4 @@
-[home](/) / [worlds](..) / ars1
+[home](/) / [worlds](/worlds) / ars1
 
 ## Survival Season 1
 

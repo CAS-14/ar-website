@@ -1,4 +1,4 @@
-[home](/) / [worlds](..) / code
+[home](/) / [worlds](/worlds) / code
 
 ## World Full Name
 
