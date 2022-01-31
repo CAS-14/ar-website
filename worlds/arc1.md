@@ -1,12 +1,13 @@
-
+[home](/) / [worlds](..) / arc1
 
 ### Info
-Name: Creative Season 1 [ARC1]  
-Nickname: Floating Island World  
-Base World: Flying Islands of Harmony by Thryzaar  
-Biome Mix: Taiga, Plains, Mountains, Ocean  
-World Type: Creative Free-building + Exploration  
-Time Span: Spring 2017 - Summer 2018  
+**Name:** Creative Season 1 \[ARC1]  
+**Nickname:** Floating Island World  
+**Base World:** Flying Islands of Harmony by Thryzaar  
+**Biome Mix:** Taiga, Plains, Mountains, Ocean  
+**Seed:** unknown  
+**World Type:** Creative Free-building + Exploration  
+**Time Span:** Spring 2017 - Summer 2018  
 
 ### History
 This world was the original realm world. It was uploaded in spring of 2017. Unfortunately it got corrupted randomly in 2018 and it could not be restored or joined. About a year later, the world was deleted from the realm.  

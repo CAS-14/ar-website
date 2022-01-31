@@ -1,0 +1,19 @@
+[home](/) / [worlds](..) / code
+
+### Info
+**Name:** World Full Name \[CODE]  
+**Nickname:** Friendly Nickname   
+**Base World:** Base World  
+**Biome Mix:** Biomes, Listed,    
+**Seed:** seed  
+**World Type:** EX Creative Free-building + Exploration  
+**Time Span:** Time Span  
+
+### History
+Small paragraphs of text
+
+About the world's history and about
+
+### Iconic Builds
+- Builds with links to them or lore links
+- Doge
