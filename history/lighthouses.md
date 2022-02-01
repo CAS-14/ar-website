@@ -1,0 +1,7 @@
+[home](/) / [history](/history) / lighthouses
+
+## Lighthouses (Symbolism)
+
+In several creative worlds, there have been lighthouses built. The first lighthouse was created in the [first Creative world](/worlds/arc1). It was very small, and it was built on the ground next to an ocean. Soon, a pool was built connecting to the ocean, right outside the lighthouse. The second lighthouse was made in that world also. It was up on a floating island and there was a teleporter between the lighthouses. There was a third lighthouse that was being built at a farming area on a mountain, but the realm was corrupted before it was finished.
+
+The final lighthouse was created in the [second Creative world](/worlds/arc2) in order to memorialize the corrupted first world. It was much larger compared to the original lighthouses. It had about ten floors and people got to claim floors to build on. A bit later on, a collection of floating islands was built next to this lighthouse, also in memory of the first creative world. It had a jump boost pad/elevator at the bottom, which was later converted to levitation. There were three islands: A plain one with a tree and treehouse, a jungle island with a waterfall, and a simple looking island that had a bunker underneath. A [Goodcorp](/history/goodcorp) helicopter was parked next to one of the islands.

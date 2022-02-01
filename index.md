@@ -2,11 +2,11 @@
 
 ### Pages
 - [Realm Rules](rules)
-- [All Builds](builds)
 - [Timeline](timeline)
 
 ### Wiki Categories
 - [Worlds](worlds)
+- [All Builds](builds)
 - [Members](members)
 - [History](history)
 

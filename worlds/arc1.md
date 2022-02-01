@@ -1,4 +1,4 @@
-[home](/) / [worlds](..) / arc1
+[home](/) / [worlds](/worlds) / arc1
 
 ## Creative Season 1
 

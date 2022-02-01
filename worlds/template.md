@@ -22,3 +22,5 @@ About the world's history and about
 
 ### Images
 ![Alt](/favicon.png)
+
+*Page last updated: 1/31/22*
