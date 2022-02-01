@@ -3,11 +3,11 @@
 ## Flying Pizza
 
 ### Info
-**World:** [Creative Season 4](/worlds/arc4)
-**Builder(s):** The Pizza Man (Unknown)
-**Build Activity:** June-August 2021
-**Style:** Funny/Prank
-**Group Associations:** None
+**World:** [Creative Season 4](/worlds/arc4)  
+**Builder(s):** The Pizza Man (Unknown)  
+**Build Activity:** June-August 2021  
+**Style:** Funny/Prank  
+**Group Associations:** None  
 
 ### History
 The flying pizza is built by an unknown individual. It was originally created in mid-June of 2021 around the time that [Blinkroot Industrial](/history/blinkroot) became prevalent on the Realm.

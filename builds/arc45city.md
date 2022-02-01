@@ -3,11 +3,11 @@
 ## Seasons 4 & 5 City
 
 ### Info
-**World:** [Creative Season 4](/worlds/arc4) -> [Creative Season 5](/worlds/arc5)
-**Builder(s):** [dynamite14](/members/dynamite14), [ksmeegs](/members/ksmeegs), [ChefArmor](/members/chefarmor), [Admiral Zoster](/members/zoster), [SodaCity](/members/sodacity)
-**Build Activity:** June-October 2021, January 2022
-**Style:** Large Project - Urban City
-**Group Associations:** None
+**World:** [Creative Season 4](/worlds/arc4) -> [Creative Season 5](/worlds/arc5)  
+**Builder(s):** [dynamite14](/members/dynamite14), [ksmeegs](/members/ksmeegs), [ChefArmor](/members/chefarmor), [Admiral Zoster](/members/zoster), [SodaCity](/members/sodacity)  
+**Build Activity:** June-October 2021, January 2022  
+**Style:** Large Project - Urban City  
+**Group Associations:** None  
 
 ### History
 The City is a city build started by [dynamite14](/members/dynamite14) and [ChefArmor](/members/chefarmor) in summer 2021. Soon, [Admiral Zoster](/members/zoster) and [SodaCity](/members/sodacity) joined the project. Briefly, [ksmeegs](/members/ksmeegs) worked on the project. The city was measured and planned to be 6 x 3 buildings. Each building would be 16x16 blocks. Some exceptions were made, but mostly buildings were kept this size.

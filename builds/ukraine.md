@@ -3,11 +3,11 @@
 ## Ukraine
 
 ### Info
-**World:** [Creative Season 5](/worlds/arc5)
-**Builder(s):** [Tedders](/members/tedders)
-**Build Activity:** January 2022
-**Style:** Meme, Rural Village
-**Group Associations:** None
+**World:** [Creative Season 5](/worlds/arc5)  
+**Builder(s):** [Tedders](/members/tedders)  
+**Build Activity:** January 2022  
+**Style:** Meme, Rural Village  
+**Group Associations:** None  
 
 ***THIS PAGE IS WIP***
 

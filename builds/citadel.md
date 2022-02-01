@@ -3,11 +3,11 @@
 ## Zitadelle das Gelb (Citadel of Yellow)
 
 ### Info
-**World:** [Creative Season 5](/worlds/arc5)
-**Builder(s):** [SodaCity](/members/sodacity)
-**Build Activity:** January 2022
-**Style:** Modern Skyscraper
-**Group Associations:** None
+**World:** [Creative Season 5](/worlds/arc5)  
+**Builder(s):** [SodaCity](/members/sodacity)  
+**Build Activity:** January 2022  
+**Style:** Modern Skyscraper  
+**Group Associations:** None  
 
 ***THIS PAGE IS WIP***
 
