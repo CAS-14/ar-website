@@ -1,14 +1,14 @@
 [home](/) / [members](/members) / quvio
 
-## quvio
+## quvio (Alex)
 
 ### Info
 **Join Date:** 27 September 2020 
 **Rank:** Member    
-**Activity:** N/A  
+**Activity:** Very Active  
 **Interests:** building, combat, survival   
 **IGN History:** quvio_, chezychez, Eramia, venadore_  
-**Also Known As:** Alex, \*\*\*, Max, Public Enemy No. 1  
+**Also Known As:** Finn, Alex, \*\*\*, Max, Public Enemy No. 1  
 **Introduced:** [Eramira](eramira), [Lucid](justin)  
 
 ### About
