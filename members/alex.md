@@ -8,7 +8,7 @@
 **Activity:** N/A  
 **Interests:** building, combat, survival   
 **IGN History:** chezychez, Eramia, venadore_  
-**Also Known As:** Alex, Mia, Max, Public Enemy No. 1  
+**Also Known As:** Alex, \*\*\*, Max, Public Enemy No. 1  
 **Introduced:** [Eramira](eramira), [Lucid](justin)  
 
 ### About
