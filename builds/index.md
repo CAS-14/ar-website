@@ -9,3 +9,4 @@
 - [Ukraine](ukraine)
 - [Zitadelle das Gelb](citadel)
 - [Garden](garden)
+- [Player Statues](statues5)
