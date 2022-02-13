@@ -19,7 +19,7 @@ Alex was invited by [SodaCity](sodacity) to a friendgroup Chez Cult in September
 - Cozy Town
 - Huge Bathtub
 - War Bathtubs
-- Hypercube base ARA2
+- Hypercube base in Anarchy 2
 
 
 
