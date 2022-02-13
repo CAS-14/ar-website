@@ -20,6 +20,7 @@ To add your own statue, you can start building the legs on the red and white squ
 - Torso: 8 wide, 4 deep/back, and 12 tall
 - Arms: for default arms, they are 4 wide, 4 deep, and 12 tall; for slim, they are same except only 3 wide
 - Head: 8x8x8 cube, centered on the torso  
+- Feel free to be creative with your skin's overlays
 
 You can then build what you think would be in your brain (make this funny if you want).
 
