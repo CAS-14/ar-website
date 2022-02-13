@@ -19,8 +19,8 @@ it's fucking hell here
 - Canada is inspired by a real country known as Canada.
 
 ### Images
-![canada](/images/canada1)
-![canada](/images/canada2)
+![canada](/images/canada1.png)
+![canada](/images/canada2.png)
 
 
 
