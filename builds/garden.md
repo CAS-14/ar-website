@@ -9,8 +9,6 @@
 **Style:** Terraforming  
 **Group Associations:** None  
 
-***THIS PAGE IS WIP***
-
 ### History
 The garden's basic layout was created by [SodaCity](/members/sodacity) in February 2022. The garden is located south of the [city](arc45city) in the flat area of [Season 5](/worlds/arc5). It originally consisted of an azalea leaf pattern outlining a square path and a fountain in the center. On February 10, 2022, [quvio](/members/quvio) began adding to the garden, as per SodaCity's request. Quvio's terraforming skills brought the garden to life, and he added tall grass, flowers, ponds, and other details.
 
