@@ -14,7 +14,8 @@
 
 Welcome to Awesome Realm's website. This is just a small unprofessional website so I can write the lore and history here. Pick a page or category to go to above.
 
-Contact dynamite14 on Discord: **>>#0001**
-dynamite14's main website: [ACT25.com](https://www.act25.com/)
+Contact CAS on Discord: **CAS#0001**
+
+CAS's main website: [ACT25.com](https://www.act25.com/)
 
 More stuff coming soon.
