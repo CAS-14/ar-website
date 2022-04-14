@@ -9,7 +9,7 @@
 **Interests:** building, command blocks, combat, survival, projects, moderation  
 **IGN History:** dynamite14 (current)  
 **Also Known As:** CAS, Charles, dynamite14  
-**Introduced:**    
+**Introduced:**  lol  
 
 ***PAGE WIP***
 
@@ -21,4 +21,4 @@ dynamite14 is the owner and primary admin of Awesome Realm. He has made a lotta 
 
 
 
-*Page last updated: 2/1/22*
+*Page last updated: 4/13/22*
