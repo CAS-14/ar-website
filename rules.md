@@ -15,7 +15,7 @@
 9. Stealing is not permitted, even in Creative, because someone could have put effort into storing items in something or making a custom item.
 10. Do not grief nearby generated structures (like villages or temples), unless you plan to contribute something with effort of your own.
 11. Do not change others builds without their permission.
-​12. Conflicts will be settled by the Admins. If there is a conflict, contact them.
+12. Conflicts will be settled by the Admins. If there is a conflict, contact them.
 13. Do not destroy/ruin the landscape, even if an area is empty. This counts as a low-effort build.
 14. Builds should exhibit at least a little effort. If you spam wood planks everywhere in a high-priority area, you can expect them to be removed.
 15. Having command permissions (OP) is a privilege, not a right. Do not abuse them such as killing all entities, clearing players, excessively killing players, generating lag, teleporting others without permission, etc.
