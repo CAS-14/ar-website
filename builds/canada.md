@@ -19,8 +19,8 @@ it's fucking hell here
 - Canada is inspired by a real country known as Canada.
 
 ### Images
-![canada](/images/canada1.png)
-![canada](/images/canada2.png)
+![canada](https://aei.pw/media/minecraft/ar-images/canada1.png)
+![canada](https://aei.pw/media/minecraft/ar-images/canada2.png)
 
 
 

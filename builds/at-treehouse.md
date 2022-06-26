@@ -19,9 +19,9 @@ Finn and Jake live here.
 - A demon summoning circle was built by [quvio](/members/quvio) and [dynamite14](/members/dynamite14) around Noemi while she was AFK. It was later removed, but some signs were left. These can be seen in the 3rd image.
 
 ### Images
-![view of the treehouse](/images/att1.png)
-![view at night](/images/att2.png)
-![summoning circle remains](/images/att3.png)
+![view of the treehouse](https://aei.pw/media/minecraft/ar-images/att1.png)
+![view at night](https://aei.pw/media/minecraft/ar-images/att2.png)
+![summoning circle remains](https://aei.pw/media/minecraft/ar-images/att3.png)
 
 
 

@@ -44,11 +44,11 @@ Beware of drug dealers.
 - This is the only build to be transferred between two worlds. Read more about it on the [Creative Season 5](/worlds/arc5) page.
 
 ### Images
-![View of the city in Season 5](/images/city1.png)
-![View of the city in Season 5](/images/city2.png)
+![View of the city in Season 5](https://aei.pw/media/minecraft/ar-images/city1.png)
+![View of the city in Season 5](https://aei.pw/media/minecraft/ar-images/city2.png)
 Here is the city in Season 5, being worked on, from two different angles.
 
-![Diagram with quadrants for structure blocks](/images/citycopy.png)
+![Diagram with quadrants for structure blocks](https://aei.pw/media/minecraft/ar-images/citycopy.png)
 This is the diagram that dynamite14 made for keeping track of the city copying procedure. He used 7 structure blocks, due to their 48x48x48 limit.
 
 More images coming soon.

@@ -21,11 +21,11 @@ This pretty garden is a peaceful place and is great for enjoying nature, ponderi
 - Salmon stack, cow stack
 
 ### Images
-![view of the garden](/images/garden1.png)
-![aerial view of the garden](/images/garden2.png)
-![sunny tree view](/images/garden5.png)
-![garden swing point-of-view](/images/garden3.png)
-![view of garden at night](/images/garden4.png)
+![view of the garden](https://aei.pw/media/minecraft/ar-images/garden1.png)
+![aerial view of the garden](https://aei.pw/media/minecraft/ar-images/garden2.png)
+![sunny tree view](https://aei.pw/media/minecraft/ar-images/garden5.png)
+![garden swing point-of-view](https://aei.pw/media/minecraft/ar-images/garden3.png)
+![view of garden at night](https://aei.pw/media/minecraft/ar-images/garden4.png)
 
 
 

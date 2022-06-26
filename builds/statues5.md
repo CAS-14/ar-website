@@ -25,8 +25,8 @@ To add your own statue, you can start building the legs on the red and white squ
 You can then build what you think would be in your brain (make this funny if you want).
 
 ### Images
-![view of the statues from the ground](/images/statues1.png)
-![view of the statues from the air](/images/statues2.png)
+![view of the statues from the ground](https://aei.pw/media/minecraft/ar-images/statues1.png)
+![view of the statues from the air](https://aei.pw/media/minecraft/ar-images/statues2.png)
 
 
 
