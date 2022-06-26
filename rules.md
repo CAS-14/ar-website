@@ -2,8 +2,6 @@
 
 
 
-**Note:** Rules #1-12 are the same for Creative and Survival.
-
 ### General Rules
 
 *Follow these rules on the server at all times. You can just read the main numbered points, but the bullet points are specific parts that are still enforced.*
