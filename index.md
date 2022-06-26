@@ -18,6 +18,6 @@ Awesome Realm is a Minecraft server, not a realm. It used to be a Realm until Ap
 
 Server Address: `mc.act25.com` (or `51.91.17.191:25567` if the domain doesn't work)
 
-Join our [Discord Server](https://discord.gg/P5x4EUfwWU){:target="_blank"} for more information. My discord tag is **`CAS#0001`**.
+Join our [Discord Server](https://discord.gg/P5x4EUfwWU){:target="_blank"} for more information. My discord tag is **CAS#0001**.
 
 More stuff coming soon, as always.
