@@ -47,6 +47,7 @@
     - Do not run dangerous commands such as killing all entities or clearing players' inventories.
     - Only run a command if you are 100% sure of the outcome; experiment in singleplayer before destroying stuff by accident on the server.
     - Do not beg for command privileges, they are not a right.
+10. Be aware of the rules. Saying you "didn't know" is not an excuse for rulebreaking behavior.
 
 ### Survival Season Rules
 
@@ -62,3 +63,5 @@
 8. If an area is "claimed", do not build there.
 9. Light up your mines. Don't leave mines dark, even if you have OptiFine dynamic lighting.
 10. If KeepInventory is on, don't use it to regenerate health or hunger.
+
+*Rules last updated 6/26/22 at 2:25 PM EDT*
