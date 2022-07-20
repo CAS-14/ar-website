@@ -2,6 +2,7 @@
 
 ### Pages
 - [RULES](rules)
+- [Permissions Info](permissions)
 - [Timeline](timeline)
 
 ### Wiki Categories
