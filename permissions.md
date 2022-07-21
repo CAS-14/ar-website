@@ -20,5 +20,5 @@ There are multiple worlds on the server, including Creative, Survival, and some 
 
 ### Teleportation Perms (Creative world only)
 
-- **Default Players**: You are able to use `/tpa` to request to teleport to a player, and `/tpahere` to request to teleport a player to you. You also have access to the warps system by using `/warp <warp>` and `/warps`.
-- **Creative Perms**: Players with higher permissions can use `/tpo` to teleport to a player instantly without sending a request (like the disabled `/tp`). This system should not be abused. You can also use `/sethome`, `/home`, `/homes`, `/delhome`, and `/movehome` to save and teleport between locations. You also have the ability to teleport to a random place with `/rtp`.
+- **Default Players**: You are able to use `/tpa <player>` to request to teleport to a player, and `/tpahere <player>` to request to teleport a player to you. You also have access to the warps system by using `/warp <warp>` and `/warps`.
+- **Creative Perms**: Players with higher permissions can use `/tpo <player>` to teleport to a player instantly without sending a request (like the disabled `/tp`). This system should not be abused. You can also use `/sethome`, `/home <home name>`, `/delhome`, and `/movehome` to save and teleport between locations. You also have the ability to teleport to a random place with `/rtp`.
