@@ -7,16 +7,17 @@
 1. Be kind to people. 
     - Generally, follow the Discord server rules when playing on the Minecraft server.
     - Be respectful to people regardless of race, gender, or sexual orientation.
-    - Do not start arguments publicly, and try not to be an asshole.
+    - Do not start arguments, and try not to be an asshole.
+    - Don't annoy people by overly teleporting (when applicable) or spamming, etc.
 2. Do not grief builds.
     - Pranking is allowed in some circumstances, but don't ruin people's work.
     - Do not modify or add onto others' builds, even if you think it would improve their build.
-    - Don't grief the landscape either, unless there is a designated area for destruction, or you are really far away.\
+    - Don't grief the landscape either, unless there is a designated area for destruction, or you are really far away.
     - Do not steal items, even in creative mode.
 3. Respect the admins.
     - The owner and admins will settle conflicts between players, and have the final decision.
     - Having permissions does not make you an admin. Admins have the Administrator role in the Discord server.
-    - If you want to make an exception (reasonably) to one of these rules, ask the owner CAS.
+    - If you want to make an exception (reasonably) to one of these rules, get permission from the owner, CAS.
     - Do not impersonate admins.
 4. Build in a reasonable spot.
     - Do not clutter; make sure to leave space between your build and another build.
